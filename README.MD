@@ -1,6 +1,6 @@
 Project QA Automation android with Robot Framework and Appium 
 
-Project Testing
+## Project Testing
 
-./Apk/ApiDemos-debug.apk
-./Apk/Diet_meal.apk
+- ./Apk/ApiDemos-debug.apk
+- ./Apk/Diet_meal.apk
